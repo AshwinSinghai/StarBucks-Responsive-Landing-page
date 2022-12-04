@@ -218,6 +218,7 @@ header ul li a{
 
     .content .imgBox img{
         max-width: 300px;
+        margin-left: 50px;
     }
 
     .thumb li img{
